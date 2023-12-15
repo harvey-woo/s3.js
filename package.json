@@ -1,0 +1,7 @@
+{
+  "name": "@cat5th/s3.js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A tool for handling s3 protocol service(aws s3, aliyun oss, qiuniu, huawei obs, etc.), support upload, download, delete, list, etc."
+}
